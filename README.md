@@ -4,7 +4,7 @@
 
 1. Clone repository
 
-git clone <repo-url>
+git clone https://github.com/YashRaJShaRMaCODE/student-management-system.git
 
 2. Install dependencies
 
